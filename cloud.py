@@ -14,6 +14,7 @@ stopwords.add("one")
 stopwords.add("will")
 stopwords.add("co")
 stopwords.add("im")
+stopwords.add("RT")
 
 
 wc = WordCloud(stopwords=stopwords)
